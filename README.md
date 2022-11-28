@@ -9,3 +9,16 @@ API_REST_PROJETOS :office: -API que utiliza a arquitetura Restful capaz de geren
   <img align="center" alt="Judeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Judeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Judeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ 
+ ## Para testar a aplicacão
+ 
+1-Baixe a release do projeto [aqui]();
+2-Altere as propriedades do banco de dados no application.properties;
+3-Entre no diretório que tenha o arquivo pom.xml;
+4-Execute o comando
+```bash
+ 
+ mvn spring-boot:run
+ 
+```
+ 
