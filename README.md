@@ -1,5 +1,5 @@
 # API_REST_Projetos
-API_REST_PROJETOS :office: -API que utiliza a arquitetura Restful capaz de gerenciar projetos assim como os funcionarios e clientes envolvidos no processo. API desenvolvida com java e springboot
+API_REST_PROJETOS :office: -API que utiliza a arquitetura Restful capaz de gerenciar projetos assim como os funcionarios e clientes envolvidos no processo. API desenvolvida com o framework Spring do ecossistema java. 
  ## Feito com
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Judeu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
